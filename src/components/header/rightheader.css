@@ -1,0 +1,77 @@
+.rightheader{
+    width: 250px;
+    height: auto;
+}
+
+.rightheader .right_nav{
+    display: flex;
+    align-items: center;
+    background-color: #131921;
+    padding-bottom: 10px;
+    height: 50px;
+}
+
+.rightheader .right_nav h3{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-style: italic;
+    font-weight: 500;
+    color: #fff;
+}
+
+.rightheader .avtar{
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.rightheader .avtar2{
+    cursor: pointer;
+    background-color: #1365cf;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.nav_btn{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: 5px;
+ 
+}
+
+.nav_btn a{
+    text-decoration: none;
+    font-size: 18px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #131921;
+}
+
+.nav_btn .flag{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    
+}
+.flag1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -15px;
+    font-weight: 600;
+    font-size: 17px;
+    text-decoration: none;
+    color: #131921;
+   
+}
+
+ 
+ 
+  
+
+    
+
+ 
+   
